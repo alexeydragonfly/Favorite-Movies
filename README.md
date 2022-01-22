@@ -1,4 +1,4 @@
-# Favorite Movies(iOS APP) 
+# Favorite Movies(iOS App) 
 
 The application uses themoviedb.org api.<br />
 Discover popular movies and add movies to your favoirites list. Use long press to add/remove movie to favourites.<br />
