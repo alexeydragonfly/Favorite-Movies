@@ -1,8 +1,8 @@
 # Favorite Movies(iOS APP) 
 
-The application uses themoviedb.org api.__
-Discover popular movies and add movies to your favoirites list. Use long press to add/remove movie to favourites.__
-CollectionView and all UI in second tab were created using code.__
+The application uses themoviedb.org api.<br />
+Discover popular movies and add movies to your favoirites list. Use long press to add/remove movie to favourites.<br />
+CollectionView and all UI in second tab were created using code.<br />
 
 
 
